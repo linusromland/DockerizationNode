@@ -1,0 +1,19 @@
+{
+  "name": "nodehello",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "devStart": "nodemon app.js",
+    "start": "forever app.js"
+  },
+  "author": "linusromland",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "forever": "^3.0.4"
+  }
+}
