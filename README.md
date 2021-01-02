@@ -3,6 +3,10 @@
 Testing out docker containers for preparation of my move to K8s servers!
 
 
+DockerHub: https://hub.docker.com/u/linusromland
+
+DockerHub Test Repo (nodehello): https://hub.docker.com/r/linusromland/nodehello
+
 # Notes for myself:
 
 ## Build and run:
