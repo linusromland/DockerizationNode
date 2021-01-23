@@ -1,8 +1,8 @@
 # Dockerization
 
 ### This is a repo to explain and use docker for your node project and pushing to DockerHub. <br>
-- If you just want to run dockerimages locally. Check <a href="INSERT_LINK">BuildingAndRunning.md</a><br>
-- If you instead want to push your images to DockerHub. Check <a href="INSERT_LINK">PushingToDockerHub.md</a><br>
+- If you just want to run dockerimages locally. Check <a href="https://github.com/linusromland/DockerizationNode/blob/master/BuildingAndRunning.md">BuildingAndRunning.md</a><br>
+- If you instead want to push your images to DockerHub. Check <a href="https://github.com/linusromland/DockerizationNode/blob/master/PushingToDockerHub.md">PushingToDockerHub.md</a><br>
 
 ## Links:
 

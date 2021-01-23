@@ -1,4 +1,6 @@
 # Pushing to DockerHub
+This is how you build your projects and run them for use with DockerHub. Check <a href="https://github.com/linusromland/DockerizationNode/blob/master/BuildingAndRunning.md">BuildingAndRunning.md</a> for use locally instead.
+<br><br>
 You need to have an account on <a href="https://hub.docker.com/">`DockerHub`</a>.
 
 ### Building docker for DockerHub:
